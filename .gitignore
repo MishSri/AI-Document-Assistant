@@ -1,0 +1,15 @@
+# Environment variables (API Keys & Secrets)
+.env
+
+# Local Chroma Vector Database Data
+db/
+
+# User Uploaded Documents Directory
+uploads/
+
+# Python virtual environments & caching
+__pycache__/
+*.pyc
+venv/
+.venv/
+.pytest_cache/
